@@ -1,0 +1,12 @@
+com\hanchunhui\mapper\TbOrderShippingMapper.class
+com\hanchunhui\mapper\TbOrderMapper.class
+com\hanchunhui\mapper\TbContentMapper.class
+com\hanchunhui\mapper\TbItemDescMapper.class
+com\hanchunhui\mapper\TbOrderItemMapper.class
+com\hanchunhui\mapper\TbItemMapper.class
+com\hanchunhui\mapper\TbItemCatMapper.class
+com\hanchunhui\mapper\TbItemParamItemMapper.class
+com\hanchunhui\mapper\TbUserMapper.class
+com\hanchunhui\App.class
+com\hanchunhui\mapper\TbContentCategoryMapper.class
+com\hanchunhui\mapper\TbItemParamMapper.class
